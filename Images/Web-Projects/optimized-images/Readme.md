@@ -20,7 +20,6 @@ node-js-course-store-720x.jpg
 random-quote-720x.jpg
 react-js-todo-app-720x.jpg
 react-todo-first-720x.jpg
-Readme.md
 social-media-crud-app-720x.jpg
 update-css-720x.jpg
 ```

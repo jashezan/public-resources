@@ -20,7 +20,6 @@ node-js-course-store.png
 random-quote.png
 react-js-todo-app.png
 react-todo-first.png
-Readme.md
 social-media-crud-app.png
 update-css.jpg
 ```

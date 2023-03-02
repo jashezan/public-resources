@@ -18,7 +18,6 @@ medium-4.svg
 mega-icon.svg
 protonmail-logo.svg
 quora-logo-1.svg
-Readme.md
 reddit-1.svg
 slack-1.svg
 stack-exchange.svg

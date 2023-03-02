@@ -35,7 +35,6 @@ postman.svg
 prettier-2.svg
 python-5.svg
 react-2.svg
-Readme.md
 redux.svg
 sass-1.svg
 sqlite.svg
