@@ -4,6 +4,7 @@
 breaking-bad-cast-720x.jpg
 clock-with-js-720x.jpg
 comments-remover-720x.jpg
+cosmo-junkie-720x.jpg
 css-text-potrait-720x.jpg
 dice-game-app-720x.jpg
 drum-kit-720x.jpg
